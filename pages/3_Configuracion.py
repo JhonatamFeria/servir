@@ -6,8 +6,8 @@ import json
 
 
 
-imalogo = Image.open("ima\logo.png")
-st.set_page_config(page_title="Configuracion", page_icon=imalogo, layout="centered")
+
+st.set_page_config(page_title="Configuracion", layout="centered")
 
 
 #CONFIGURACIONES DE LA APP
