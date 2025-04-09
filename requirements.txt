@@ -1,4 +1,4 @@
-Python==3.13.3
+python==3.12.9
 altair==5.5.0
 altgraph==0.17.4
 anyio==4.8.0
