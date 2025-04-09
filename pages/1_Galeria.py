@@ -6,7 +6,7 @@ import os
 
 
 imalogo = Image.open("ima\logo.png")
-st.set_page_config(page_title="Galeria", page_icon=imalogo, layout="centered")
+st.set_page_config(page_title="Galeria", layout="centered")
 
 
 ###blue green orange red violet ###
