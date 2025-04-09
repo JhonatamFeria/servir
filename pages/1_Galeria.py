@@ -5,7 +5,7 @@ import os
 
 
 
-imalogo = Image.open("ima\logo.png")
+
 st.set_page_config(page_title="Galeria", layout="centered")
 
 
