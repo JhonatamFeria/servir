@@ -6,8 +6,8 @@ from PIL import Image
 
 
 
-imalogo = Image.open("ima\logo.png")
-st.set_page_config(page_title="App", page_icon=imalogo, layout="centered")
+
+st.set_page_config(page_title="App", layout="centered")
 
 
 
