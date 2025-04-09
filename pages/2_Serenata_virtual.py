@@ -12,8 +12,8 @@ from Procedimientos.unir_serenata import union_clips_serenata
 from Procedimientos.crearserenatavirtual import datos_sere_virtual
 
 
-imalogo = Image.open("ima\logo.png")
-st.set_page_config(page_title="Serenatas virtuales", page_icon=imalogo, layout="centered")
+
+st.set_page_config(page_title="Serenatas virtuales", layout="centered")
 
 
 st.title("Serenata virtual")
